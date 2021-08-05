@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak Mishra
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently working as Sr. Software Developer
-- 💞️ I’m looking to collaborate on Front-End & Back-End developers
+- 💞️ I’m looking to collaborate with Front-End & Back-End developers
 - 📫 Reach me at my Email:- mishrak85@gmail.com or Skype:- sarthak049
 
 <!---
